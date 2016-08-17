@@ -1,0 +1,15 @@
+{
+  "name": "pi-home/pi-home",
+  "description": "Pi home PHP",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Janusz Żukowicz",
+      "email": "john_zuk@wp.pl"
+    },
+    {
+      "name": "Łukasz Kowalczyk"
+    }
+  ]
+}
