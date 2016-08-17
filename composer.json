@@ -11,5 +11,13 @@
     {
       "name": "Łukasz Kowalczyk"
     }
-  ]
+  ],
+  "require": {
+    "php" : ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "PiHome\\": "src/PiHome"
+    }
+  }
 }
